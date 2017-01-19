@@ -1,0 +1,2 @@
+Fill.text,Fill.data,Fill.bss,Misc.text,Misc.data,Misc.bss,static_ram,heap,stack,total_ram,total_flash
+29,0,8,39139,0,536,544,21636,8192,30372,39168

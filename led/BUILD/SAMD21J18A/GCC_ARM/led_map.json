@@ -1,0 +1,27 @@
+[
+    {
+        "module": "Fill", 
+        "size": {
+            ".data": 0, 
+            ".bss": 8, 
+            ".text": 29
+        }
+    }, 
+    {
+        "module": "Misc", 
+        "size": {
+            ".data": 0, 
+            ".bss": 536, 
+            ".text": 39139
+        }
+    }, 
+    {
+        "summary": {
+            "total_flash": 39168, 
+            "static_ram": 544, 
+            "stack": 8192, 
+            "heap": 21636, 
+            "total_ram": 30372
+        }
+    }
+]
